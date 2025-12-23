@@ -4,7 +4,7 @@ vim.opt.shiftwidth = 4
 
 -- enabling page numbers
 vim.opt.number = true
-vim.opt.relativenumber=true
+vim.opt.relativenumber = true
 
 -- always allow mouse support
 vim.opt.mouse = 'a'
